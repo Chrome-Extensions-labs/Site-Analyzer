@@ -5,7 +5,7 @@ A high-signal, browser-based website auditing toolkit that classifies URL health
 [![Gist](https://img.shields.io/badge/gist.github-version_of_this_repository-DCDCDC?style=for-the-badge&logo=github)](https://gist.github.com/OstinUA/3e3bb1ef7dd018355e6c3713069c8405)
 
 [![Chrome Store](https://img.shields.io/badge/platform-Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/search/OstinUA)
-[![Chrome Portfolio](https://img.shields.io/badge/Chrome_Web_Store-Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ostinua.github.io/Chrome-Web-Store_Developer-List/)
+[![Chrome Portfolio](https://img.shields.io/badge/Chrome_Web_Store-Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devs-in-exile.pages.dev/extensions)
 
 [![Version](https://img.shields.io/badge/version-2.0.0-0ea5e9?style=for-the-badge)](manifest.json)
 [![Manifest](https://img.shields.io/badge/Chrome-Manifest%20V3-34a853?style=for-the-badge&logo=googlechrome)](manifest.json)
